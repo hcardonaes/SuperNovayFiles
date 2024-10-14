@@ -1,0 +1,10 @@
+﻿<Window x:Class="SuperNovayFiles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:y="clr-namespace:yWorks.Controls;assembly=yWorks.yFilesWPF.Viewer"
+        Title="Árbol Genealógico" Height="450" Width="800">
+    <Grid>
+        <!-- Definir correctamente el GraphControl con un nombre -->
+        <y:GraphControl x:Name="graphControl" />
+    </Grid>
+</Window>

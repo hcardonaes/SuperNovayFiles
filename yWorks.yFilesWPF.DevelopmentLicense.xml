@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license>
+  <licensefileversion>1.0</licensefileversion>
+  <product>yFiles WPF</product>
+  <package>complete</package>
+  <type>eval</type>
+  <distribution>false</distribution>
+  <watermark><![CDATA[yFiles WPF Evaluation License (expires in ${license-days-remaining} days)]]></watermark>
+  <comment>b19bac6a-a363-4e65-8b2c-459ccbcbaa83</comment>
+  <version>3.6</version>
+  <date>10/10/2024</date>
+  <expires>12/10/2024</expires>
+  <key>61326a8a144a3ba144d51ab5016bb274b0acd97ff53089be8a8f13d8cdde246e23f38fee3f1461640f0b20c161562091640c7f26f856ac518404931498f7f890babb7a5169cf4544d156055838bd18a18805c378c0e173b8138d9bb66609d4af58eece68e1e7015f18d798ce9462327abef5f15a4cd75045d2dd3cc7d16e6128</key>
+</license>
